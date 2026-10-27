@@ -12,4 +12,4 @@ After installing, restart After Effects and open **Window > Extensions > GREAT E
 Windows may show "Windows protected your PC" because the installer is not code-signed yet.
 Click **More info**, then **Run anyway**.
 
-Current version: 3.10
+Current version: 3.11.1
